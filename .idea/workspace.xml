@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="025dd839-e10d-4cb6-acf4-6a5bbd7f1547" name="Changes" comment="for contact number check and testing" />
+    <list default="true" id="025dd839-e10d-4cb6-acf4-6a5bbd7f1547" name="Changes" comment="for contact number check and testing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724998159121</updated>
-      <workItem from="1724998159988" duration="5096000" />
+      <workItem from="1724998159988" duration="5898000" />
     </task>
     <task id="LOCAL-00001" summary="for contact number check and testing">
       <option name="closed" value="true" />
